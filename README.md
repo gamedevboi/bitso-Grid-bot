@@ -1,4 +1,4 @@
-# bitso-Grid
+# bitso-Grid (Gridso)
 A bot that buys and Sell bitcoin, eth, xrp, ltc or any cryptocurrency available for the Mexican Exchange Bitso using a Grid strategy using bitso API
 
 ## Bitso uses Python 2.7 
