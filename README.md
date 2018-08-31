@@ -19,4 +19,4 @@ It's recommended for you to have some currency in the pair, for example if you'r
  for more info on bitso API go to https://bitso.com/api_info?
  
  ### Disclaimer
-Trading Crypto can be a challenging and potentially profitable opportunity for investors. However, before deciding to participate in the crypto market, you should carefully consider your investment objectives, level of experience, and risk appetite. Most importantly, do not invest money you cannot afford to lose. I have not personally tested this bot for a long period of time and I don't know how profitable is. Trade responsibly! :) 
+Trading Crypto can be a challenging and potentially profitable opportunity for investors. However, before deciding to participate in the crypto market, you should carefully consider your investment objectives, level of experience, and risk appetite. Most importantly, do not invest money you cannot afford to lose. I have not personally tested this bot for a long period of time and I don't know how profitable it is. Trade responsibly! :) 
